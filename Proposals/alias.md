@@ -1,5 +1,5 @@
 
-# Alias: A fintech app for Web3.0, really
+# Alias: A practical fintech app for Web3.0
 
 
 * **KFTP Number:** [To be assigned once it's merged into the master]
